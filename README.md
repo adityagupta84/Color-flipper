@@ -21,12 +21,14 @@ This project is super simple and includes the following:
 - **Simple Mode**: Switches the background color using a set list of colors.
 - **Hex Mode**: Generates a random hex color every time you click the button.
 
-🔍 How It Works
+## 🔍 How It Works
+
 When you click the "click me" button, the background color changes:
 
 In Simple mode, it cycles through a few predefined colors.
 In Hex mode, it generates a random hex code, giving you endless color options!
 
-❤️ Why I Made This
+## ❤️ Why I Made This
+
 Sometimes, the simplest projects can be the most fun. I built this to practice working with JavaScript and DOM manipulation, and I hope it helps others learn too!
 
